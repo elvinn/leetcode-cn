@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-cn",
+  "version": "1.0.0",
+  "description": "刷题记录",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvinn/leetcode-cn.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "elvinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvinn/leetcode-cn/issues"
+  },
+  "homepage": "https://github.com/elvinn/leetcode-cn#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
