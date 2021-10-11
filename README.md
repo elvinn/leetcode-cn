@@ -2,7 +2,11 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
-# 2021.10.10
+## 2021.10.11
+
+1. [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+
+## 2021.10.10
 
 1. [Easy 108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 2. [Easy 110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
