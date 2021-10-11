@@ -7,6 +7,7 @@
 1. [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 2. [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 3. [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+4. [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 ## 2021.10.10
 
