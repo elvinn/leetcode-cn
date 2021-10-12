@@ -6,6 +6,7 @@
 
 1. [Easy 257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 2. [Easy 404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+3. [Easy 501. 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
 
 ## 2021.10.11
 
