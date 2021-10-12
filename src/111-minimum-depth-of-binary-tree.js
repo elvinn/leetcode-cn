@@ -12,7 +12,7 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var minDepth = function (root) {
+const minDepth = function (root) {
   if (!root) {
     return 0
   }
