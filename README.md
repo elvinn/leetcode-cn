@@ -5,6 +5,7 @@
 ## 2021.10.12
 
 1. [Easy 257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
+2. [Easy 404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
 
 ## 2021.10.11
 
