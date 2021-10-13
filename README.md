@@ -2,6 +2,9 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.13
+1. [Easy 530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
+
 ## 2021.10.12
 
 1. [Easy 257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
