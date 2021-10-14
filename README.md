@@ -4,6 +4,7 @@
 
 ## 2021.10.14
 1. [Easy 563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
+2. [Easy 572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 
 ## 2021.10.13
 1. [Easy 530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
