@@ -2,6 +2,9 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.14
+1. [Easy 563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
+
 ## 2021.10.13
 1. [Easy 530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
 2. [Easy 543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
