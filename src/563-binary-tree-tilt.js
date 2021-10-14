@@ -12,7 +12,7 @@
  * @param {TreeNode} root
  * @return {number}
  */
-const findTilt = function(root) {
+const findTilt = function (root) {
   const helper = (node) => {
     if (!node) {
       return [0, 0]

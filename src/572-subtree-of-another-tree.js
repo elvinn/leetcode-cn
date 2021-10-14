@@ -13,7 +13,7 @@
  * @param {TreeNode} subRoot
  * @return {boolean}
  */
-const isSubtree = function(root, subRoot) {
+const isSubtree = function (root, subRoot) {
   const helper = (node, charList = []) => {
     if (!node) {
       return
@@ -39,6 +39,6 @@ const isSubtree = function(root, subRoot) {
   const rootStr = helper(root).join(' ')
   const subRootStr = helper(subRoot).join(' ')
 
-  const index = rootStr.indexOf(subRootStr) 
+  const index = rootStr.indexOf(subRootStr)
   return index === 0 || (index > 0 && rootStr[index - 1] === ' ')
 }

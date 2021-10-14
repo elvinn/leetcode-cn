@@ -12,7 +12,7 @@
  * @param {TreeNode} root
  * @return {number}
  */
-const diameterOfBinaryTree = function(root) {
+const diameterOfBinaryTree = function (root) {
   let max = 0
   const helper = (node) => {
     if (!node) {
