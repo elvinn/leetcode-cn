@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.15
+
+1. [Easy 606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
+
 ## 2021.10.14
 1. [Easy 563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
 2. [Easy 572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
