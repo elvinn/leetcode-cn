@@ -6,6 +6,7 @@
 
 1. [Easy 617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
 2. [Easy 637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
+3. [Easy 653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
 
 ## 2021.10.15
 
