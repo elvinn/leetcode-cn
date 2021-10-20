@@ -5,6 +5,7 @@
 ## 2021.10.20
 
 1. [Easy 671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)
+2. [Easy 700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 
 ## 2021.10.19
 
