@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.20
+
+1. [Easy 671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)
+
 ## 2021.10.19
 
 1. [Easy 617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
