@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.22
+
+1. [Easy 703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+
 ## 2021.10.20
 
 1. [Easy 671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)
