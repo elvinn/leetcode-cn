@@ -25,7 +25,7 @@ const findSecondMinimumValue = function (root) {
       return
     }
 
-    if (result != -1 && node.val >= result) {
+    if (result !== -1 && node.val >= result) {
       return
     }
 
