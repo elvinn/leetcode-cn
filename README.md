@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.24
+
+1. [Easy 872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)
+
 ## 2021.10.22
 
 1. [Easy 703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
