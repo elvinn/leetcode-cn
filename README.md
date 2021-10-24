@@ -7,6 +7,7 @@
 1. [简单 872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)
 2. [中等 95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 3. [中等 96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+4. [中等 98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 
 ## 2021.10.22
 
