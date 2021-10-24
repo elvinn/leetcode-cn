@@ -4,58 +4,60 @@
 
 ## 2021.10.24
 
-1. [Easy 872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)
+1. [简单 872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)
+2. [中等 95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+3. [中等 96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 
 ## 2021.10.22
 
-1. [Easy 703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+1. [简单 703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 
 ## 2021.10.20
 
-1. [Easy 671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)
-2. [Easy 700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
+1. [简单 671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)
+2. [简单 700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 
 ## 2021.10.19
 
-1. [Easy 617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
-2. [Easy 637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
-3. [Easy 653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
+1. [简单 617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+2. [简单 637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)
+3. [简单 653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)
 
 ## 2021.10.15
 
-1. [Easy 606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
+1. [简单 606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 
 ## 2021.10.14
-1. [Easy 563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
-2. [Easy 572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
+1. [简单 563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)
+2. [简单 572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 
 ## 2021.10.13
-1. [Easy 530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
-2. [Easy 543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
+1. [简单 530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
+2. [简单 543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)
 
 ## 2021.10.12
 
-1. [Easy 257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
-2. [Easy 404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
-3. [Easy 501. 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
+1. [简单 257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
+2. [简单 404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+3. [简单 501. 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
 
 ## 2021.10.11
 
-1. [Easy 144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
-2. [Easy 145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
-3. [Easy 226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
-4. [Easy 235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+1. [简单 144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+2. [简单 145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+3. [简单 226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
+4. [简单 235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 ## 2021.10.10
 
-1. [Easy 108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
-2. [Easy 110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
-3. [Easy 111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
-4. [Easy 112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+1. [简单 108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+2. [简单 110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+3. [简单 111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+4. [简单 112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
 
 ## 2021.10.09
 
-1. [Easy 94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-2. [Easy 100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
-3. [Easy 101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
-4. [Easy 104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+1. [简单 94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+2. [简单 100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
+3. [简单 101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+4. [简单 104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
