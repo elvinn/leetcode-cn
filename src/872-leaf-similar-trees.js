@@ -28,14 +28,14 @@ const getLeafList = (root) => {
   dfs(root)
 
   return list
-};
+}
 
 /**
  * @param {TreeNode} root1
  * @param {TreeNode} root2
  * @return {boolean}
  */
-const leafSimilar = function(root1, root2) {
+const leafSimilar = function (root1, root2) {
   const list1 = getLeafList(root1)
   const list2 = getLeafList(root2)
 

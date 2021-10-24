@@ -13,7 +13,7 @@
  * @param {number} n
  * @return {TreeNode[]}
  */
-const generateTrees = function(n) {
+const generateTrees = function (n) {
   if (!n) {
     return []
   }
@@ -29,13 +29,13 @@ const generateTrees = function(n) {
       const leftTrees = helper(start, i)
       const rightTrees = helper(i + 1, end)
       leftTrees.forEach((leftTree) => {
-          rightTrees.forEach((rightTree) => {
-            result.push({
-              val: i + 1,
-              left: leftTree,
-              right: rightTree,
-            });
+        rightTrees.forEach((rightTree) => {
+          result.push({
+            val: i + 1,
+            left: leftTree,
+            right: rightTree
           })
+        })
       })
     }
 
