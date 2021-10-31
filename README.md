@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.10.31
+
+1. [中等 102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+
 ## 2021.10.24
 
 1. [简单 872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)
