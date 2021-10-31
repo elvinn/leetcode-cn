@@ -5,6 +5,7 @@
 ## 2021.10.31
 
 1. [中等 102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+2. [中等 103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 ## 2021.10.24
 
