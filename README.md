@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.12.12
+
+1. [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+
 ## 2021.11.02
 
 1. [中等 105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
