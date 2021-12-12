@@ -13,7 +13,7 @@
  * @param {number[]} postorder
  * @return {TreeNode}
  */
-const buildTree = function(inorder, postorder) {
+const buildTree = function (inorder, postorder) {
   // 存储中序遍历下标结果，加快搜索
   const map = {}
   inorder.forEach((val, index) => map[val] = index)
