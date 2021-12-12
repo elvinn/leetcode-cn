@@ -5,6 +5,7 @@
 ## 2021.12.12
 
 1. [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+2. [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## 2021.11.02
 
