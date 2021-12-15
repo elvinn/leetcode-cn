@@ -11,27 +11,18 @@ const numDecodings = function (s) {
 
   const dp = []
   dp[0] = 1
-  for (let i = 1; i < s.length; i++) {
-    const char = s[i]
-    const lastChar = s[i - 1]
-    const lastTwo = parseInt(lastChar + char, 10)
+  for (let i = 0; i < s.length; i++) {
+    dp[i + 1] = 0
 
-    if (char === '0') {
-      if (lastChar === '1' || lastChar === '2') {
-        dp[i] = (dp[i - 2] || 1)
-      } else {
-        return 0
-      }
-    } else if (lastChar === '0' || lastTwo > 26) {
-      dp[i] = dp[i - 1]
-    } else if (lastTwo <= 26) {
-      dp[i] = dp[i - 1] + (dp[i - 2] || 1)
-    } else {
-      return 0
+    if (s[i] !== '0') {
+      dp[i + 1] += dp[i]
+    }
+
+    const lastTwoValue = i === 0 ? 0 : parseInt(s.substring(i - 1, i + 1))
+    if (lastTwoValue >= 10 && lastTwoValue <= 26) {
+      dp[i + 1] += dp[i - 1]
     }
   }
 
-  return dp[s.length - 1]
+  return dp[s.length]
 }
-
-console.log(numDecodings('27'))
