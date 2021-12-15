@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.12.15
+
+1. [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+
 ## 2021.12.12
 
 1. [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
