@@ -5,6 +5,7 @@
 ## 2021.12.20
 
 1. [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
+2. [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 ## 2021.12.16
 
