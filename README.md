@@ -7,6 +7,7 @@
 1. [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
 2. [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 3. [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+4. [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 
 ## 2021.12.16
 
