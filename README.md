@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.12.21
+
+1. [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+
 ## 2021.12.20
 
 1. [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
