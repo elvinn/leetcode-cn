@@ -8,6 +8,7 @@
 2. [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 3. [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 4. [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+5. [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
 
 ## 2021.12.16
 
