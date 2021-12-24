@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2021.12.24
+
+1. [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)
+
 ## 2021.12.23
 
 1. [678. 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)
