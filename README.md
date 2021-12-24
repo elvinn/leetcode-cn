@@ -5,6 +5,7 @@
 ## 2021.12.24
 
 1. [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)
+2. [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
 
 ## 2021.12.23
 
