@@ -6,6 +6,7 @@
 
 1. [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)
 2. [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+3. [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 ## 2021.12.23
 
