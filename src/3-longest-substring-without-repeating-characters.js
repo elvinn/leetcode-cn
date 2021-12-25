@@ -4,7 +4,7 @@
  * @param {string} s
  * @return {number}
  */
-const lengthOfLongestSubstring = function(s) {
+const lengthOfLongestSubstring = function (s) {
   const charSet = new Set()
   let max = 0
   for (let i = 0; i < s.length; i++) {
@@ -19,4 +19,3 @@ const lengthOfLongestSubstring = function(s) {
   }
   return max
 }
-
