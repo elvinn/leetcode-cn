@@ -5,6 +5,7 @@
 ## 2021.12.26
 
 1. [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)
+2. [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
 
 ## 2021.12.25
 
