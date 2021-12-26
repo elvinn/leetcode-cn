@@ -7,15 +7,16 @@
 const lengthOfLongestSubstring = function (s) {
   const charSet = new Set()
   let max = 0
+  let right = -1
   for (let i = 0; i < s.length; i++) {
-    for (let j = i; j < s.length; j++) {
-      if (charSet.has(s[j])) {
-        break
-      }
-      charSet.add(s[j])
-      max = Math.max(max, charSet.size)
+    while (right + 1 < s.length && !charSet.has(s[right + 1])) {
+      right += 1
+      charSet.add(s[right])
     }
-    charSet.clear()
+
+    max = Math.max(max, charSet.size)
+    charSet.delete(s[i])
   }
+
   return max
 }
