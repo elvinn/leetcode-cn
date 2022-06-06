@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.06
+
+1. [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
 ## 2021.12.27
 
 1. [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)
