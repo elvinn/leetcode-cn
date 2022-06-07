@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.07
+
+1. [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
 ## 2022.06.06
 
 1. [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
