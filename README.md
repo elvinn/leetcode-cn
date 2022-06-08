@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.08
+
+1. [678. 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)
+
 ## 2022.06.07
 
 1. [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
