@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.09
+
+1. [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+
 ## 2022.06.08
 
 1. [678. 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)
