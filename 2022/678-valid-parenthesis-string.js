@@ -6,57 +6,57 @@
  * @return {boolean}
  */
 const checkValidString = (s) => {
-  const charStack = [];
+  const charStack = []
 
   for (const char of s) {
     if (['(', '*'].includes(char)) {
-      charStack.push(char);
-      continue;
+      charStack.push(char)
+      continue
     }
 
-    let isMatched = false;
-    let tempStarCount = 0; // 临时取出的 '*' 数量
-    while(charStack.length > 0) {
-      const popChar = charStack.pop();
+    let isMatched = false
+    let tempStarCount = 0 // 临时取出的 '*' 数量
+    while (charStack.length > 0) {
+      const popChar = charStack.pop()
       if (popChar === '(') {
-        isMatched = true;
-        break;
+        isMatched = true
+        break
       }
-      
+
       if (popChar === '*') {
-        tempStarCount += 1;
-        continue;
+        tempStarCount += 1
+        continue
       }
 
       // popChar 为 '('
       if (!tempStarCount) {
-        return false;
+        return false
       }
 
-      charStack.push(popChar);
-      break;
+      charStack.push(popChar)
+      break
     }
     if (!isMatched) {
       if (!tempStarCount) {
-        return false;
+        return false
       }
 
-      tempStarCount -= 1;
+      tempStarCount -= 1
     }
 
-    charStack.push(...Array.from({ length: tempStarCount }).fill('*'));
+    charStack.push(...Array.from({ length: tempStarCount }).fill('*'))
   }
 
-  let leftOneCount = 0;
+  let leftOneCount = 0
   for (const char of charStack) {
     if (char === '(') {
-      leftOneCount += 1;
+      leftOneCount += 1
     }
 
     if (char === '*') {
-      leftOneCount = Math.max(0, leftOneCount - 1);
+      leftOneCount = Math.max(0, leftOneCount - 1)
     }
   }
 
-  return leftOneCount === 0;
-};
+  return leftOneCount === 0
+}
