@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.13
+
+1. [Fisher–Yates 随机算法](https://cnblogs.com/z-sm/p/12393211.html)
+
 ## 2022.06.09
 
 1. [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
