@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.14
+
+1. [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+
 ## 2022.06.13
 
 1. [Fisher–Yates 随机算法](https://cnblogs.com/z-sm/p/12393211.html)
