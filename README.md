@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.16
+
+1. [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
 ## 2022.06.15
 
 1. [165. 比较版本号](https://leetcode.cn/problems/compare-version-numbers/)
