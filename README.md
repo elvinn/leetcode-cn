@@ -5,6 +5,7 @@
 ## 2022.06.16
 
 1. [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+2. [394. 字符串解码](https://leetcode.cn/problems/decode-string/)
 
 ## 2022.06.15
 
