@@ -5,6 +5,7 @@
 ## 2022.06.21
 
 1. [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+2. [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 
 ## 2022.06.16
 
