@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.21
+
+1. [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+
 ## 2022.06.16
 
 1. [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
