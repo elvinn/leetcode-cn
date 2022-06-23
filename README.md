@@ -2,7 +2,11 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
-## 2022.6.22
+## 2022.06.23
+
+1. [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
+
+## 2022.06.22
 
 1. [159. 至多包含两个不同字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/)
 2. 字符串括号匹配
