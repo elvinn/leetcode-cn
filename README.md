@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.26
+
+1. [207. 课程表](https://leetcode.cn/problems/course-schedule/)
+
 ## 2022.06.25
 
 1. [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
