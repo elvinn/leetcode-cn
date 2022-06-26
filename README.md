@@ -2,6 +2,10 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.06.25
+
+1. [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
 ## 2022.06.23
 
 1. [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
