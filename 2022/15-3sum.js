@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/3sum/solution/san-shu-zhi-he-by-leetcode-solution/
+// https://leetcode.cn/problems/3sum/
 
 /**
  * @param {number[]} nums
