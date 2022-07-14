@@ -2,6 +2,9 @@
 
 [刷题记录](https://leetcode-cn.com/u/elvin-peng/)
 
+## 2022.07.14
+
+1. [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
 ## 2022.07.11
 
 1. [395. 至少有 K 个重复字符的最长子串](https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/)
