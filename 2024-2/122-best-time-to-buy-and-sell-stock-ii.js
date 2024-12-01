@@ -1,5 +1,8 @@
 // https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/
 
+
+// 动态规划算法可以更进一步优化成 O(n) 复杂度的算法
+
 /**
  * @param {number[]} prices
  * @return {number}
